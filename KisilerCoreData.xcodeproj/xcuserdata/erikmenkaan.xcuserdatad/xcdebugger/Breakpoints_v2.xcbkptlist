@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F29F7580-AF44-4EE6-812B-BB8F1B98F62D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B58481E-FE6F-4F07-9F7B-A863A850BE7A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KisilerCoreData/KisiDetayVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "KisiDetayVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5B58481E-FE6F-4F07-9F7B-A863A850BE7A - 167b91c67c7bfaca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KisilerCoreData.KisiDetayVC.lblKisiTelefon.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "KisilerCoreData"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/T7/proje/Kis%CC%A7iler%20Uygulamas%C4%B1/KisilerUygulamasi-Sqlite/KisilerCoreData/KisiDetayVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "5B58481E-FE6F-4F07-9F7B-A863A850BE7A - 60300eac224f06c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KisilerCoreData.KisiDetayVC.lblKisiTelefon.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "KisilerCoreData"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/T7/proje/Kis%CC%A7iler%20Uygulamas%C4%B1/KisilerUygulamasi-Sqlite/KisilerCoreData/KisiDetayVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "5B58481E-FE6F-4F07-9F7B-A863A850BE7A - be7d826b94bb83c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KisilerCoreData.KisiDetayVC.lblKisiTelefon.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "KisilerCoreData"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/T7/proje/Kis%CC%A7iler%20Uygulamas%C4%B1/KisilerUygulamasi-Sqlite/KisilerCoreData/KisiDetayVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "5B58481E-FE6F-4F07-9F7B-A863A850BE7A - a03d39d2e3b09535"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KisilerCoreData.KisiDetayVC.lblKisiTelefon.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "KisilerCoreData"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/T7/proje/Kis%CC%A7iler%20Uygulamas%C4%B1/KisilerUygulamasi-Sqlite/KisilerCoreData/KisiDetayVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "5B58481E-FE6F-4F07-9F7B-A863A850BE7A - bd29a579e002a707"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KisilerCoreData.KisiDetayVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; KisilerCoreData.KisiDetayVC"
+                  moduleName = "KisilerCoreData"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/T7/proje/Kis%CC%A7iler%20Uygulamas%C4%B1/KisilerUygulamasi-Sqlite/KisilerCoreData/KisiDetayVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "5B58481E-FE6F-4F07-9F7B-A863A850BE7A - 9d76ca4ae0b35431"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KisilerCoreData.KisiDetayVC.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;KisilerCoreData.KisiDetayVC&gt;"
+                  moduleName = "KisilerCoreData"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/T7/proje/Kis%CC%A7iler%20Uygulamas%C4%B1/KisilerUygulamasi-Sqlite/KisilerCoreData/KisiDetayVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B6AFE73A-1E16-4810-AC78-6761C0D77B50"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KisilerCoreData/KisiDetayVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "KisiDetayVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B6AFE73A-1E16-4810-AC78-6761C0D77B50 - 54a5b66b08aaf022"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KisilerCoreData.KisiDetayVC.kisi.getter : Swift.Optional&lt;KisilerCoreData.Kisiler&gt;"
+                  moduleName = "KisilerCoreData"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/T7/proje/Kis%CC%A7iler%20Uygulamas%C4%B1/KisilerUygulamasi-Sqlite/KisilerCoreData/KisiDetayVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "B6AFE73A-1E16-4810-AC78-6761C0D77B50 - 72fbc6b8fb908c1e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KisilerCoreData.KisiDetayVC.kisi.setter : Swift.Optional&lt;KisilerCoreData.Kisiler&gt;"
+                  moduleName = "KisilerCoreData"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/T7/proje/Kis%CC%A7iler%20Uygulamas%C4%B1/KisilerUygulamasi-Sqlite/KisilerCoreData/KisiDetayVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "B6AFE73A-1E16-4810-AC78-6761C0D77B50 - 393328d2631c7d2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KisilerCoreData.KisiDetayVC.kisi.modify : Swift.Optional&lt;KisilerCoreData.Kisiler&gt;"
+                  moduleName = "KisilerCoreData"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/T7/proje/Kis%CC%A7iler%20Uygulamas%C4%B1/KisilerUygulamasi-Sqlite/KisilerCoreData/KisiDetayVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "B6AFE73A-1E16-4810-AC78-6761C0D77B50 - 71f2bf0a20d76d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KisilerCoreData.KisiDetayVC.kisi.modify : Swift.Optional&lt;KisilerCoreData.Kisiler&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "KisilerCoreData"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/T7/proje/Kis%CC%A7iler%20Uygulamas%C4%B1/KisilerUygulamasi-Sqlite/KisilerCoreData/KisiDetayVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "B6AFE73A-1E16-4810-AC78-6761C0D77B50 - bd29a579e002a7a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KisilerCoreData.KisiDetayVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; KisilerCoreData.KisiDetayVC"
+                  moduleName = "KisilerCoreData"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/T7/proje/Kis%CC%A7iler%20Uygulamas%C4%B1/KisilerUygulamasi-Sqlite/KisilerCoreData/KisiDetayVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "B6AFE73A-1E16-4810-AC78-6761C0D77B50 - 9d76ca4ae0b35492"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KisilerCoreData.KisiDetayVC.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;KisilerCoreData.KisiDetayVC&gt;"
+                  moduleName = "KisilerCoreData"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/T7/proje/Kis%CC%A7iler%20Uygulamas%C4%B1/KisilerUygulamasi-Sqlite/KisilerCoreData/KisiDetayVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "152">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
